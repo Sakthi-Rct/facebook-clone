@@ -1,4 +1,4 @@
-# Facebook Clone. 🚀 🚀 🚀 
+# Facebook Clone. 🚀 
 
 ### Live Demo 👉  https://facebook-clone-1fca6.web.app
 
